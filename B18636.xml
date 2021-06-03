@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the borough of Southwark, as it stands with the county of Surrey, in reference to assesments for the army and Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18636</idno><idno type="EEBO-CITATION">99885561</idno>
+  <idno type="VID">185320</idno>
+  <idno type="EEBO-PROQUEST">2240882268</idno>
+  
+            <idno type="STC">Wing C1023A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[114]</idno>
+            <idno type="STC">ESTC R224649</idno>
+            <idno type="PROQUEST">ocm99885561</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885561e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185320)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[113])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the borough of Southwark, as it stands with the county of Surrey, in reference to assesments for the army and Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term type="topical_term">Rent --  England --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:185320:1"/>
+            <head>The case of the Borough of <hi>Southwark,</hi> as it stands with the County of <hi>Surrey,</hi> in reference to Assesments for the Army and <hi>Ireland.</hi>
+            </head>
+            <p>THE Borough of <hi>Southwark</hi> properly taken (and as it is understood in the present asses<g ref="char:EOLhyphen"/>ments for the Army and <hi>Ireland</hi>) is not much more then half of that which is common<g ref="char:EOLhyphen"/>ly called the Borough of <hi>Southwark,</hi> joyned together by one continued frame of buil<g ref="char:EOLhyphen"/>dings: For in the larger and common name (and as it is, and hath usually been joyned in the businesse of Militia) it containeth 8 Parishes, viz. <hi>Olaves, Saviours, Thomas, Georges, Magdalen, Bermondsey, Mary Newington, Rotherhith</hi> and <hi>Lambeth.</hi> Whereas but the 3 Parishes of <hi>Olaves, Georges, Thomas,</hi> and a part of <hi>Saviours,</hi> are strictly and properly the Borough of <hi>Southwark,</hi> and so are charged in the Assesments of the County at almost one fourth part of the whole sum laid by the Par<g ref="char:EOLhyphen"/>liament on the County of <hi>Surrey.</hi> The other fore mentioned Parishes and places, which are almost equall in estate and value with the said Borough, are joyned in these assesments with the residue of the said County of <hi>Surrey.</hi>
+            </p>
+            <p>The unreasonablenesse of which proportion as it is evidenced by divers ancient presidents, in most of which the Borugh of <hi>Southwark</hi> was charged but at an eighth part, sometimes but one tenth part with the County; so it was never so charged as now it is by the County, and in ordinary Military charges two of the other foure Parishes were joyned antiently with the Borough.</p>
+            <p>That the said Borough charged themselves with one eighth part of the totall charged on the whole County (which as it is the most that can be evinced by ancient presidents) so it is apparently much more then the proportion charged on the parish of <hi>Bermondsey,</hi> and those other forementioned, which though adjacent to the Borough, are assessed with the County, by which a man resident on the one side of a street in the Borough paieth as much as his neighbour of the like estate on the other side of the street charged with the County as aforesaid, and this so notoriously known that it cannot be denied by the Gentlemen of the County, so it is no small discouragement to the Inhabitants of the Borough of <hi>Southwark,</hi> who have volanturily and constantly adventured all they have or are in the service of the publique, nay beyond the said County, and would be five pence for a penny, if they should be charged as the said County have propounded, in the proportion set by them in the said Borough of <hi>Southwark.</hi>
+            </p>
+            <p>That there is in the County of <hi>Surrey</hi> about 140 Parishes, in which are many Towns considerable, Tradesmen, and much land: Whereas in the said Borough is but 3 Parishes, and a part of a Parish: In which, though there may be 5000 families, yet there is not one thousand of them capable of pay<g ref="char:EOLhyphen"/>ing any assesments; the residue of them being very poor Tradesmen, or such as either receive alms, or beg their bread; the long continuance of these distractions much more pinching poor Tradesmen, then any other sort of people whatsoever.</p>
+            <p>That of the foresaid three Parishes, and a part of a fourth, one of the said Parishes is wholly Hospi<g ref="char:EOLhyphen"/>tall rents, and affording very little for personall estates towards the summe charged on the said Bo<g ref="char:EOLhyphen"/>rough; so there remains but two Parishes, and a part of a Parish, to bear the assesment; and in those also there is much Hospitall and Colledge rents, exempted by a particular Ordinance of Parliament.</p>
+            <p>That yet the said three poor Parishes, and a part of a fourth, have by the unequall carriage in the subdivision of assesments, been constrained to pay twice as much as any the richest Cities in <hi>England, London</hi> and <hi>Norwich</hi> only excepted; as may easily appear by comparing what the said Cities are char<g ref="char:EOLhyphen"/>ged withall particularly in the Ordinances of Parliament, with what the Borough of <hi>Southwark</hi> have do pay by being joyned in one totall with the County of <hi>Surrey.</hi>
+            </p>
+            <p>Lastly, That much of this mischief and inconvenience ariseth by charging the said Borough of <hi>Southwark</hi> in one totall summe with the County of <hi>Surrey,</hi> there being above eight Commissioners dwelling in the County, for one resident in the Borough, of <hi>Southwark,</hi> and on the subdivision of the totall charge, the particulars being carried by most voices; it was easie to set the Borough at what they pleased, notwithstanding all protests and remonstrances to the contrary.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
